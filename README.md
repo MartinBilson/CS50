@@ -1,6 +1,6 @@
-<!-- Times are when we want to revisit html and understand few concepts, forgotten or brain storming for skills purposes. Once we remembers the number of pages to revisit 
-read we almost give up and the physch morale is downsized. That's why i decided to come up with this highlighting key points concepts such that within 20 minutes you are done
-revisiting the syntax and concepts under html css and little javascript-->
+<!-- Times are when we want to revisit HTML and understand a few concepts, forgotten or brainstorming for skills purposes. Once we remember the number of pages to revisit 
+we almost give up and the physical morale is downsized. That's why I decided to come up with this highlighting key points concepts such that within 20 minutes you are done
+revisiting the syntax and concepts under HTML CSS and little javaScript-->
 
 <!-- CSS within html header -->
  <h1 style="color: blue; text-align: center;" >Welcome To CS50, Harvard University</h1>
